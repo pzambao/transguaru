@@ -17,9 +17,9 @@
 			<a class="nav-link js-scroll-trigger" href="<?= base_url('cliente/historia') ?>">História</a>
 		</li>
 
-		<li class="nav-item">
+		<!--<li class="nav-item">
 			<a class="nav-link js-scroll-trigger" href="<?= base_url('imagens/frota') ?>">Nossa Frota</a>
-		</li>
+		</li>-->
 		<li class="nav-item">
 			<a class="nav-link js-scroll-trigger" href="<?= base_url('cliente/cadastro') ?>">Solicitar Orçamento</a> 
 		</li>
